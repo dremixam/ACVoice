@@ -18,7 +18,7 @@ ACVoice est une application Unity destinée aux streamers Twitch, permettant d'a
 
 ## Installation
 
-1. [Téléchargez la dernière version précompilée](https://github.com/dremixam/ACVoice/releases/latest/download/ACVoice.zip).
+1. [Téléchargez la dernière version précompilée](https://github.com/dremixam/ACVoice/releases/latest/download/ACVoice-windows.zip). (Une [version macos](https://github.com/dremixam/ACVoice/releases/latest/download/ACVoice-macos.zip) est aussi disponible)
 2. **Décompressez l'archive** où vous le souhaitez.
 3. **Lancez l'exécutable "ACVoice.exe"**.
 
@@ -52,7 +52,7 @@ Notez bien le nom exact, il doit correspondre à celui configuré dans l'applica
 
 Ce projet a été développé initialement pour un usage personnel et n'est plus maintenu. Il est fourni "en l'état", sans garantie de fonctionnement ni support, et il n'est pas prévu de mises à jour futures. Le code et l'architecture sont probablement datés ou sous-optimaux sur certains aspects.
 
-> **Note :** Si vous souhaitez modifier ou développer l'application, ouvrez le projet dans Unity 6 ou supérieur.
+> **Note :** Si vous souhaitez modifier ou développer l'application, clonez le dépot et ouvrez le projet dans Unity 6 ou supérieur.
 
 ## Auteurs
 
